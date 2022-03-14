@@ -46,7 +46,7 @@ h2 {
 
 #menu a {
     text-decoration: none;
-    color: nherit;
+    color: inherit;
 }
 
 #menu a:hover {
